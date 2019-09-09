@@ -1,0 +1,44 @@
+
+*Return
+*possibilidades if, invalido, ultima pos, normal
+* LIGAR PONTEITOS ESCOPO PONTO . || ->
+. Códigos COD_INVALIDO
+*for print <= >=
+* lt->n++;
+*INCLUI NA ULTIMA POSIÇÂO
+*EXCLUI DA ULTIMA POSIÇÂO
+*CERTO i>=pos NÂO000 i=>pos
+
+*** Lista
+> l->n=0; Conta quantos dados estam na lista cheia== lt->n==maxNodos 
+> int incluiAntes(ListaCF *lt, int cod, Dado dad){
+for(i=lt->n;i>=pos;i--){ // Vai ate o cod PARA copiar ele  como lt->v[i]=lt->v[i-1]; e assim não perder o 
+dado q sera includo antes
+>l->n=0; Conta quantos dados estam na lista cheia== lt->n==maxNodos 
+> INSERE reaproveitamento.
+
+**** PILHA
+> INSERE lt->n++;
+> REMOVE lt->n--;
+> p->topo=-1 INICIALIZA
+> estaCheia p.topo==(MAX_NODOS-1)
+> estaVazio p.topo==-1)
+> EMPILHA p.topo++; INCREMENTE ANTES DE COLOCAR
+> REMOVE copia o dado antes de fazer P.TOPO--
+
+
+***FILA
+> criaFila  f->frente=0; f->re=-1;
+> ESTA CHEIA f->frente=0 && f->re=(MAX_NODOS-1)
+> ESTA VAZIA f->frente > f->re
+> Retira f->frente ++ 
+> INSERE f->re ++
+SEMPRE INCREMENTO
+f->frente++;
+f->re++;
+
+
+
+
+As memorias flash conseguem reter as informações graças ao uso, de um Transitor de porta flutuante, nele  temos dois terminais o fonte e o dreno, e a corrente circula da fonte para o dreno. paraelo ao canal temos um porta, q qual vai permitir ou impedir que a corrente circulo entre a fonte e o dreno, 
+A porta de Ponto Flutuante não tem ligação com nada, ela apenas é formada por um matrial que armazena cargas eletricas essa carga por ser armazanda por mais de 100 anos a 25 C.
